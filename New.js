@@ -157,7 +157,7 @@ console.log(subtract);
 
 //Task7 Addition create an arrow function to add two numbers
 let add = (x, y) => x + y;
-console.log(add(10, 20));
+console.log(add(20, 20));
 
 
 
