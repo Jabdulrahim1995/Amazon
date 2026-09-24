@@ -159,9 +159,15 @@ console.log(subtract);
 let add = (x, y) => x + y;
 console.log(add(60, 20));
 
+let multiply = (x, y) => x * y;
+console.log(multiply(5, 10));
 
+let divide = (x, y) => x / y;
+console.log(divide(60, 10));
 
+let sub = (x,y) => x - y;
+console.log(sub(50, 20));
 
-
+l
 
 
